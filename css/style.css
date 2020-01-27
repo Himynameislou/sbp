@@ -1,4 +1,5 @@
-/* General CSS */
+/* Removing all of our CSS to allow Bootstrap to work
+
 
 body {
   padding-top: 100px;
@@ -7,7 +8,6 @@ body {
 }
 
 
- /* Removing all of our CSS to allow Bootstrap to work
 
 h1 {
   font-size: 36px;
@@ -109,10 +109,13 @@ hr {
   background-color: #e6e6e6;
   border-color: #adadad;
 } 
-*/
 
-/* Footer */
+
 
 #footer-p {
   padding: 30px 0;
 }
+*/
+
+
+
